@@ -1,5 +1,5 @@
 1.1
-http://localhost/roydirect_updates/
+WmlzeFoxVlZjbVYyYVdoNk56ZENUWE5yV0RsM1QwUnZiakl6VUZOVFFqZGpibUpZZFUxcmRYQkZWWEpNTXpWc1dVNWtSRTAyUVZGWE1UazBjbVJuTXc9PQ==
 #version 1.1 [20/10/2019]
 - added Admin Panel (Account, Ads, Freatures manager)
 - added API Url
