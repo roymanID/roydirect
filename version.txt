@@ -1,7 +1,7 @@
 {
     "key": "QS96cXBjd2NSU2VPRHM1a3JqdUZMWVJVcWVLZXNCSGhsam9SWExndG81bEM2dk00UnF0TkN3N1gwcVdES3NTag==",
     "version": "2",
-    "date": "2020/01/11",
+    "date": "2020/01/15",
     "updates": [
         "Remove host [clicknupload.org]",
         "Add host [vidoza.net, supervideo.tv, gounlimited.to, gofile.io]",
