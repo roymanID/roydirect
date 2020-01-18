@@ -1,5 +1,12 @@
-TUVGVlltbERVVXBYVGpkRmFsaGFUMlZpUTNodGFVdG1ha3BVZERoT2EyVkxaRWhFTlhFNVltTXdXRXB4TWs0MGFGQlpiWEJPVFhadVVWVjFlRkpWUnpWVE0xZ3dTVUpMTld0dVVrdDNkMElyVDNGRU5IYzlQUT09
-1.1
-#version 1.1 [20/10/2019]
-- added Admin Panel (Account, Ads, Freatures manager)
-- added API Url
+{
+    "key": "QS96cXBjd2NSU2VPRHM1a3JqdUZMWVJVcWVLZXNCSGhsam9SWExndG81bEM2dk00UnF0TkN3N1gwcVdES3NTag==",
+    "version": "2",
+    "date": "2020/01/11",
+    "updates": [
+        "Remove host [clicknupload.org]",
+        "Add host [vidoza.net, supervideo.tv, gounlimited.to, gofile.io]",
+        "Change Theme",
+        "Add Shortlink",
+        "Add some Features"
+    ]
+}
