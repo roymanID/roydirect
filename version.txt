@@ -1,5 +1,5 @@
 {
-    "key": "TUVGVlltbERVVXBYVGpkRmFsaGFUMlZpUTNodGNtdzBLMEZ6YVZvemJqTkpWMjVaVjBNM2NGWkpaMmQwU1ZGclFuSk1OMnRST0ZoMlkwZ3hlRmhvWlE9PQ==",
+    "key": "NCtPd0tndmd1b2xlTE1sTzJHWVYyd2MvSjNXdHhHUjlTS2xSZWVHajYvMD0=",
     "version": "2.3",
     "release_date": "2020/03/29",
     "updates": [
