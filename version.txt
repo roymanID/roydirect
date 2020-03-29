@@ -1,12 +1,10 @@
 {
     "key": "TUVGVlltbERVVXBYVGpkRmFsaGFUMlZpUTNodGNtdzBLMEZ6YVZvemJqTkpWMjVaVjBNM2NGWkpaMmQwU1ZGclFuSk1OMnRST0ZoMlkwZ3hlRmhvWlE9PQ==",
-    "version": "2",
-    "date": "2020/01/15",
+    "version": "2.3",
+    "release_date": "2020/03/29",
     "updates": [
-        "Remove host [clicknupload.org]",
-        "Add host [vidoza.net, supervideo.tv, gounlimited.to, gofile.io]",
-        "Change Theme",
-        "Add Shortlink",
-        "Add some Features"
+        "Fixing Update Features",
+        "Add Custom Error Message",
+        "Add Video Player & Embed"
     ]
 }
