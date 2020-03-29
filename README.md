@@ -6,5 +6,3 @@ This tools makes download more Simply :)
 You can contact me to order:
 
 facebook: fb.com/royman.id
-
-instagram: @royman.id
